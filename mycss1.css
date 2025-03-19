@@ -1,0 +1,31 @@
+body {
+    font-family: Montserrat;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p {
+    text-decoration: solid;
+}
+
+a:link {
+    color: #1414df;
+    text-decoration: none;
+}
+a:hover {
+    color: #84df14;
+    text-decoration: solid;
+    font-weight: bold;
+}
+a:visiteds {
+    color: #1414df;
+    text-decoration: none;
+}
+
+.kalimatpembuka {
+    font-size: x-large;
+    border: rgb(131, 198, 246);
+    border-radius: 50px;
+}
